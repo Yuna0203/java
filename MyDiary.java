@@ -7,4 +7,3 @@ public class MyDiary {
     System.out.println("終了します");
   }
 }
-a
